@@ -59,6 +59,7 @@ GitHub Actions 实现 `酷狗概念VIP` 自动签到，每天领取总计 `两�
 API源代码来自 [MakcRe/KuGouMusicApi](https://github.com/MakcRe/KuGouMusicApi) ~~图省事直接搬来~~
 
 ## Secret 位置
+<img width="1755" height="607" alt="image" src="https://github.com/user-attachments/assets/05fe7909-cde6-43f8-9602-0cd97c12183e" />
 
 1. 步骤一
    ![步骤一](./imgs/步骤一.jpg)
